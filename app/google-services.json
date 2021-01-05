@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "226516567301",
+    "project_id": "hello-world-22589",
+    "storage_bucket": "hello-world-22589.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:226516567301:android:ba2e549f568ca80c13a36c",
+        "android_client_info": {
+          "package_name": "com.example.helloworld"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "226516567301-o3v6pr45nc1qu3i0gahmn0kqe4kalgac.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9GdveDnf_1WewySwM41bJ5qADYDEfyNQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "226516567301-o3v6pr45nc1qu3i0gahmn0kqe4kalgac.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
